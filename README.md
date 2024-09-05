@@ -67,13 +67,11 @@ Install dependencies and run the development build
  npm install
 
 npm run dev
-
-$ pnpm dev
 ```
 
 You should see something like this:
 
-```sh
+```sh 
 > next dev
 
   ▲ Next.js 14.2.5
