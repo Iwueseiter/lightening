@@ -41,9 +41,6 @@ The platform is decentralized, ensuring transparency and secure transactions. Th
    4.  **Revenue Distribution:**
    As the Artistes earn income (e.g., streaming royalties, merchandise sales), the platform automatically distributes a portion of the revenue to token holders according to the terms set in the smart contract.
 
-   5.  **Secondary Market:**
-  Artistes can choose to sell their tokens on the secondary market, potentially at a higher value if the musician's success increases demand. The platform take a small fee from these transactions, providing additional revenue for development and operations.
-
 ##### Platform Features
    1. **Discovery & Collaboration:**
    The platform features a discovery section where artistes can find rising stars or new projects to support. artistes can collaborate with each other, allowing for cross-promotion and joint token offerings.
